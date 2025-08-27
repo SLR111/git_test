@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    cout << "test_slr_v3" << endl;
+    cout << "slr" << endl;
     
     return 1;
 }
